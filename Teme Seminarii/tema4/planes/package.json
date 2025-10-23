@@ -1,0 +1,11 @@
+{
+    "name": "planes-above-romania",
+    "dependencies": {
+        "node-fetch": "^2.7.0"
+    },
+        "scripts": {
+        "start": "node planes-above-romania.js"
+    }
+
+    
+}
